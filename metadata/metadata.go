@@ -1,6 +1,7 @@
 package metadata
 
 import (
+	scalecodec "github.com/kaigedong/scale.go"
 	"github.com/kaigedong/scale.go/types"
 	"github.com/kaigedong/substrate-api-rpc/util"
 )
