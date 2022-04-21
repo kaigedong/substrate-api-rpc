@@ -2,10 +2,11 @@ package substrate
 
 import (
 	"fmt"
-	scale "github.com/itering/scale.go"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/substrate-api-rpc/metadata"
-	"github.com/itering/substrate-api-rpc/util"
+
+	scale "github.com/kaigedong/scale.go"
+	"github.com/kaigedong/scale.go/types"
+	"github.com/kaigedong/substrate-api-rpc/metadata"
+	"github.com/kaigedong/substrate-api-rpc/util"
 )
 
 // Event decode

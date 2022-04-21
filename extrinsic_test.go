@@ -1,7 +1,7 @@
 package substrate_test
 
 import (
-	"github.com/itering/substrate-api-rpc"
+	"github.com/kaigedong/substrate-api-rpc"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

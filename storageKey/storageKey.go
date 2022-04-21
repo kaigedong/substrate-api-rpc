@@ -3,10 +3,10 @@ package storageKey
 import (
 	"strings"
 
-	"github.com/itering/scale.go/types"
-	"github.com/itering/substrate-api-rpc/hasher"
-	"github.com/itering/substrate-api-rpc/metadata"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/kaigedong/scale.go/types"
+	"github.com/kaigedong/substrate-api-rpc/hasher"
+	"github.com/kaigedong/substrate-api-rpc/metadata"
+	"github.com/kaigedong/substrate-api-rpc/util"
 )
 
 type StorageKey struct {

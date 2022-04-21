@@ -1,12 +1,12 @@
-module github.com/itering/substrate-api-rpc
+module github.com/kaigedong/substrate-api-rpc
 
 go 1.12
 
 require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/huandu/xstrings v1.3.2 // indirect
-	github.com/itering/scale.go v1.1.51
 	github.com/jpillora/backoff v1.0.0
+	github.com/kaigedong/scale.go v1.1.56
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/pierrec/xxHash v0.1.5
 	github.com/rogpeppe/go-internal v1.8.1 // indirect

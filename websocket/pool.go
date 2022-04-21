@@ -3,9 +3,10 @@ package websocket
 import (
 	"errors"
 	"fmt"
-	"github.com/gorilla/websocket"
-	"github.com/itering/substrate-api-rpc/pkg/recws"
 	"sync"
+
+	"github.com/gorilla/websocket"
+	"github.com/kaigedong/substrate-api-rpc/pkg/recws"
 )
 
 var (

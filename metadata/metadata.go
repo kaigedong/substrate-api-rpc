@@ -1,9 +1,8 @@
 package metadata
 
 import (
-	"github.com/itering/scale.go"
-	"github.com/itering/scale.go/types"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/kaigedong/scale.go/types"
+	"github.com/kaigedong/substrate-api-rpc/util"
 )
 
 type RuntimeRaw struct {
